@@ -54,7 +54,7 @@ team:
 
 # Technologies used to build the project
 stack:
-- Ruby
+- Python
 
 # Brief description of the project's outcomes
 #impact:
@@ -75,8 +75,8 @@ stack:
 #     url: URL for the text of the license
 licenses:
   hmac_authentication_py:
-    name: CC0
-    url: https://github.com/18F/hmac_authentication_py/blob/master/LICENSE.md
+    name: ISC
+    url: https://github.com/mbland/hmac_authentication_py/blob/master/LICENSE.md
 
 # Blogs or websites associated with project development
 #blog:
@@ -92,7 +92,7 @@ links:
 
 # Email addresses of points-of-contact
 contact:
-- url: mailto:michael.bland@acm.org
+- url: mailto:mbland@acm.org
   text: Mike Bland
-- url: https://github.com/18F/hmac_authentication_py/issues
-  text: 18F/hmac_authentication_py issues
+- url: https://github.com/mbland/hmac_authentication_py/issues
+  text: mbland/hmac_authentication_py issues
